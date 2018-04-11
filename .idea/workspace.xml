@@ -24,8 +24,8 @@
       <file leaf-file-name="javascript.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/javascript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="50" lean-forward="true" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+            <state relative-caret-position="34">
+              <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -118,7 +118,7 @@
       <workItem from="1522929786725" duration="5737000" />
       <workItem from="1523032810441" duration="1291000" />
       <workItem from="1523140629208" duration="5752000" />
-      <workItem from="1523450671039" duration="2219000" />
+      <workItem from="1523450671039" duration="3025000" />
     </task>
     <task id="LOCAL-00001" summary="changes to docs">
       <created>1522929912562</created>
@@ -148,14 +148,29 @@
       <option name="project" value="LOCAL" />
       <updated>1523451986151</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="changes to docs">
+      <created>1523458808039</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1523458808039</updated>
+    </task>
+    <task id="LOCAL-00006" summary="GO BERLIN HOME">
+      <created>1523459114939</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1523459114939</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14999000" />
+    <option name="totallyTimeSpent" value="15805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.31270358" visible="true" weight="0.24205749" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -187,7 +202,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changes to docs" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes to docs" />
+    <MESSAGE value="GO BERLIN HOME" />
+    <option name="LAST_COMMIT_MESSAGE" value="GO BERLIN HOME" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/docs/css/index.html">
@@ -298,8 +314,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="50" lean-forward="true" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+        <state relative-caret-position="34">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
